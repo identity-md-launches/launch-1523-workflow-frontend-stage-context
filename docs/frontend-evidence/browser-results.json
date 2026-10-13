@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-13T06:44:43.106Z",
+  "mode": "Mock RPC and EIP-1193 wallet. No live transactions.",
+  "servedAtGatewaySubpath": true,
+  "results": [
+    {
+      "name": "chromium: viewing, mobile first screen, keyboard selection, wallet, paint confirmation and cooldown",
+      "passed": true,
+      "durationMs": 5894
+    },
+    {
+      "name": "missing wallet opens accessible explanation and Escape restores focus",
+      "passed": true,
+      "durationMs": 537
+    },
+    {
+      "name": "unknown chain adds exact handoff network then switches; rejected switch is recoverable",
+      "passed": true,
+      "durationMs": 666
+    },
+    {
+      "name": "wallet rejection, simulation revert and changed account never report success or send unexpectedly",
+      "passed": true,
+      "durationMs": 1505
+    },
+    {
+      "name": "RPC outage and missing code disable paint; retry restores read state",
+      "passed": true,
+      "durationMs": 1608
+    },
+    {
+      "name": "ABI tampering fails closed before any RPC or wallet request",
+      "passed": true,
+      "durationMs": 248
+    },
+    {
+      "name": "latest 20 events, long balances and full addresses reflow at 320, 390, 768, 1440 and enlarged text",
+      "passed": true,
+      "durationMs": 1136
+    },
+    {
+      "name": "submitted transaction survives reload and reverted receipts remain failures",
+      "passed": true,
+      "durationMs": 1355
+    },
+    {
+      "name": "webkit: viewing, mobile first screen, keyboard selection, wallet, paint confirmation and cooldown",
+      "passed": true,
+      "durationMs": 8074
+    }
+  ]
+}

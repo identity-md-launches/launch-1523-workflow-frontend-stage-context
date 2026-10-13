@@ -1,0 +1,20 @@
+
+> pixelcommons-web@1.0.0 test
+> node --test tests/*.test.mjs
+
+✔ ABI canonicalization ignores object key order, preserves array order and matches handoff (11.720277ms)
+✔ asset paths reject escapes, URLs, absolute paths, dot segments and empty segments (0.664504ms)
+✔ canvas decodes exactly 4096 individual color bytes in row-major order (5.404314ms)
+✔ coordinate bounds, integer checks and invalid simulation inputs fail before any RPC (1.266727ms)
+✔ wallet errors have recoverable messages and nested unknown-chain errors are recognized (1.1495ms)
+✔ activity returns latest 20 ordered events, preserves real fields, and replaces reorg overlap (13.272892ms)
+✔ activity scans backward until contract birth without a duplicate deployment block configuration (0.787874ms)
+✔ RPC chain mismatch or missing code prevents paint simulation (0.958193ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 664.54479

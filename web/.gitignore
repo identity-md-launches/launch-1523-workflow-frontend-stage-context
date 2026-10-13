@@ -1,0 +1,14 @@
+# Explicit assignment path budget: web/.gitignore only.
+# Patterns apply to generated dependencies and caches at every depth within web/.
+node_modules/
+.npm/
+.cache/
+.vite/
+coverage/
+test-results/
+playwright-report/
+*.tsbuildinfo
+*.tgz
+# Development copies, regenerated from the same handoff by npm run dev.
+/public/imd-deployment.json
+/public/abi/

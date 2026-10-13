@@ -1,0 +1,71 @@
+{
+  "page": "rgb(247, 247, 242)",
+  "rows": [
+    {
+      "selector": "h1",
+      "text": "rgb(41, 45, 39)",
+      "background": "rgb(247, 247, 242)",
+      "textRatio": 13.04,
+      "border": "rgb(41, 45, 39)",
+      "borderAgainstPage": 13.04
+    },
+    {
+      "selector": ".intro p",
+      "text": "rgb(96, 103, 93)",
+      "background": "rgb(247, 247, 242)",
+      "textRatio": 5.43,
+      "border": "rgb(96, 103, 93)",
+      "borderAgainstPage": 5.43
+    },
+    {
+      "selector": ".primary",
+      "text": "rgb(255, 255, 255)",
+      "background": "rgb(184, 63, 22)",
+      "textRatio": 5.58
+    },
+    {
+      "selector": ".secondary",
+      "text": "rgb(41, 45, 39)",
+      "background": "rgb(247, 247, 242)",
+      "textRatio": 13.04,
+      "border": "rgb(135, 142, 129)",
+      "borderAgainstPage": 3.14
+    },
+    {
+      "selector": ".swatch",
+      "text": "rgb(41, 45, 39)",
+      "background": "rgb(255, 255, 255)",
+      "textRatio": 14.01,
+      "border": "rgb(135, 142, 129)",
+      "borderAgainstPage": 3.14
+    }
+  ],
+  "focusOnWhite": 6.05,
+  "primaryBounds": {
+    "x": 16,
+    "y": 767.296875,
+    "width": 358,
+    "height": 44.390625,
+    "top": 767.296875,
+    "right": 374,
+    "bottom": 811.6875,
+    "left": 16
+  },
+  "gasNoteBounds": {
+    "x": 16,
+    "y": 819.6875,
+    "width": 358,
+    "height": 21,
+    "top": 819.6875,
+    "right": 374,
+    "bottom": 840.6875,
+    "left": 16
+  },
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "scrollWidth": 390,
+  "method": "Chromium page evaluation of computed solid colors and bounding boxes; WCAG sRGB luminance formula. Transparent borders excluded.",
+  "checkedAt": "2026-10-13 06:48:12 UTC"
+}

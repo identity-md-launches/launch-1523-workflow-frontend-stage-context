@@ -1,0 +1,15 @@
+
+> pixelcommons-web@1.0.0 build
+> tsc --noEmit && vite build && node scripts/export.mjs
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 432 modules transformed.
+rendering chunks...
+computing gzip size...
+../dist/index.html                   1.16 kB │ gzip:   0.57 kB
+../dist/assets/index-kdy3Ds2b.css   12.49 kB │ gzip:   3.41 kB
+../dist/assets/ccip-AnzIhiQu.js      2.61 kB │ gzip:   1.23 kB
+../dist/assets/index-BR4bQJde.js   487.22 kB │ gzip: 151.99 kB
+✓ built in 4.37s
+Exported verified deployment configuration and 7 assets.

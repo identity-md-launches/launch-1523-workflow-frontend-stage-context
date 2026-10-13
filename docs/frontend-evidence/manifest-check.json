@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "assets": 7,
+  "exportBytes": 545228,
+  "abiHashes": [
+    "0313dde1c97e7fc875ef9fa8a193cfaa84baef0949f97923f0cf10900859e4f3"
+  ],
+  "exactHandoff": true,
+  "relativeAssets": true
+}

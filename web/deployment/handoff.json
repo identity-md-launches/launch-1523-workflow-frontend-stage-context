@@ -1,0 +1,29 @@
+{
+  "chainId": 11155111,
+  "repoUrl": "https://github.com/identity-md-launches/launch-1517-pixelcommons",
+  "version": 1,
+  "launchId": "e2d8aa98-e699-40e3-87b6-14f39b54edb1",
+  "manifest": {
+    "kind": "evm_contracts",
+    "notes": "PixelCommons creates a shared 64x64 canvas with 4,096 white pixels. Anyone can paint with one of 16 colors, subject to a 30-second per-wallet cooldown. Each paint emits Painted; getCanvas returns all pixels in row-major order. The nonpayable constructor takes no arguments and requires no dependencies or initialization calls. There is no owner, admin, fee, pause, or upgrade mechanism, and no token, pool, or deployment funding.",
+    "contracts": [
+      {
+        "contract": "PixelCommons",
+        "constructorArgs": []
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "name": "PixelCommons",
+      "txHash": "0x4830461ee9828bb7865a7f1e23d6daed336b9d166eb9cd90206f4d2b941ae7aa",
+      "abiHash": "0313dde1c97e7fc875ef9fa8a193cfaa84baef0949f97923f0cf10900859e4f3",
+      "address": "0xafac105b0b42888d59dd9e3ae56f03cd47b13028",
+      "blockNumber": 11904166,
+      "creationCodeHash": "a82928470132e785d2c0fcf122cb40be17124b9850deb02dba8a930adeb21b33"
+    }
+  ],
+  "sourceCommit": "001306cdc2b31e636659eeb67153f1ea6d891388",
+  "abiInstructions": "Build ABIs from this exact source commit; compare canonicalKeccak(abi) with abiHash. Verify deployed code on the stated chain before enabling transactions.",
+  "attestationHash": "a40a186d717cafb3444542daff501097cbcd5bb50ce91fefd93696030ed9382c"
+}

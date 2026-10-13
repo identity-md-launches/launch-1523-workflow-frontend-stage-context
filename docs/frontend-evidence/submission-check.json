@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-13T06:55:28.465768+00:00",
+  "passed": true,
+  "allowedPaths": [
+    "web/**",
+    "dist/**",
+    "docs/**",
+    "web/.gitignore"
+  ],
+  "ignorePathBudget": [
+    "web/.gitignore"
+  ],
+  "changedFilesBeforeThisReport": 61,
+  "workingTreeSubmissionBytesBeforeThisReport": 2933599,
+  "candidateGitBundleBytesBeforeThisReport": 1484937,
+  "reportAndGitMetadataReserveBytes": 65536,
+  "conservativeCompleteBundleBytes": 1550473,
+  "limitBytes": 8388608,
+  "exportAssets": 7,
+  "exportBytes": 545228,
+  "noOutOfScopeChanges": true,
+  "noSubmodules": true,
+  "noDependencyCacheOrArchiveFilesInGitCandidate": true,
+  "cleanNpmCiRebuildManifestIdentical": true,
+  "method": "Read-only source-repository inspection plus a temporary full Git clone under test/scratch. Allowed changes overlaid, committed in the temporary clone and bundled including baseline history. The source repository Git metadata was not modified. This report has a 64 KiB reserve; the completed candidate was then rebuilt including it and checked against that bound."
+}

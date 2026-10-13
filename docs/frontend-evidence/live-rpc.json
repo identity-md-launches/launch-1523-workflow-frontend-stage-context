@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-13T06:23:30.515Z",
+  "readOnly": true,
+  "results": [
+    {
+      "url": "https://ethereum-sepolia-rpc.publicnode.com",
+      "passed": true,
+      "chainId": 11155111,
+      "codeBytes": 1083,
+      "codeKeccak": "0xd4763f185f12a1df8631286a777dfa1a1e0b17c413faad58e777c16e5fa25183",
+      "block": "11904255",
+      "blockTimestamp": "1791872604",
+      "canvasBytes": 4096,
+      "nonWhitePixels": 0,
+      "constants": [
+        "64",
+        "64",
+        "16",
+        "4096",
+        "30"
+      ],
+      "deploymentBlockCodeMatches": true,
+      "factoryAttestationMatches": true,
+      "receiptMatches": true,
+      "paintedEvents": 0
+    },
+    {
+      "url": "https://rpc.sepolia.ethpandaops.io",
+      "passed": true,
+      "chainId": 11155111,
+      "codeBytes": 1083,
+      "codeKeccak": "0xd4763f185f12a1df8631286a777dfa1a1e0b17c413faad58e777c16e5fa25183",
+      "block": "11904255",
+      "blockTimestamp": "1791872604",
+      "canvasBytes": 4096,
+      "nonWhitePixels": 0,
+      "constants": [
+        "64",
+        "64",
+        "16",
+        "4096",
+        "30"
+      ],
+      "deploymentBlockCodeMatches": true,
+      "factoryAttestationMatches": true,
+      "receiptMatches": true,
+      "paintedEvents": 0
+    },
+    {
+      "url": "https://sepolia.rpc.sentio.xyz",
+      "passed": true,
+      "chainId": 11155111,
+      "codeBytes": 1083,
+      "codeKeccak": "0xd4763f185f12a1df8631286a777dfa1a1e0b17c413faad58e777c16e5fa25183",
+      "block": "11904255",
+      "blockTimestamp": "1791872604",
+      "canvasBytes": 4096,
+      "nonWhitePixels": 0,
+      "constants": [
+        "64",
+        "64",
+        "16",
+        "4096",
+        "30"
+      ],
+      "deploymentBlockCodeMatches": true,
+      "factoryAttestationMatches": true,
+      "receiptMatches": true,
+      "paintedEvents": 0
+    }
+  ]
+}
